@@ -1,0 +1,53 @@
+body {
+  width: 592px;
+  text-align: center;
+  margin: 64px auto;
+}
+
+#main img{
+  margin-bottom: 32px;
+} 
+
+h1 {
+  font-family: "Dosis", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 500;
+  font-style: normal;
+}
+
+h1 span {
+  color: #EE24FF;
+}
+
+p span, a {
+  color: #3F3D56;
+  font-weight: bold;
+}
+
+p {
+  font-family: "Open-sans", sans-serif;
+  color: #828282;
+}
+
+#conheca {
+  margin-top: 32px;
+}
+
+#line {
+  margin-top: 64px;
+  margin-bottom: 16px;
+  color: #ECEFF2;
+  width: 572px;
+  border-bottom: 1px solid
+}
+
+a + a, a + a + a {
+  margin-left: 16px;
+}
+
+#wave {
+  position: fixed;
+  bottom: 0px;
+  left: 0px;
+  width: 100%;
+}
